@@ -1,12 +1,6 @@
 
-
-h1.text{
-	font-family: Arial;
+h1{
+	font-family: arial;
 	font-size: 22 px;
 }
 <h1 class=”text”> Huvud rubrik </p>
-p.text{
-	color:white;
-}
-<p class=”text”>Återigen vit text</p>
-
