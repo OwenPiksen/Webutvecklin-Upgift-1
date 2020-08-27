@@ -1,6 +1,21 @@
 
-h1{
+	p{ /*Typselektor*/*/
+		Color: blue;
+	}
+p,	h1{
 	font-family: arial;
 	font-size: 22 px;
+	text-align: middle;
 }
-<h1 class=”text”> Huvud rubrik </p>
+p,	h2{ /*Gruppselektor*/
+
+	font-family: arial;
+	font-size: 20 px;
+	text-align: middle;
+	
+}
+
+body.bg-blue{/*Klassselektor*/
+	Background-color: blue;
+	}  
+	
